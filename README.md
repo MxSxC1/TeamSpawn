@@ -1,6 +1,6 @@
 MxSxC1 - 5 Minute Challenge (not done one in several years).
 
-Challenge - Create A Data Pack In 5 Mins To Set 2 Spanw Points For 2 Teams
+Challenge - Create A Data Pack In 5 Mins To Set 2 Spawn Points For 2 Teams
 
 As always it's not pretty when done in 5 mins.
 
